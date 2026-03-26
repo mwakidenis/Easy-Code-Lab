@@ -1,4 +1,4 @@
-# EasyCode
+# EasyCodeLab
 
 An interactive, browser-based learning tool that helps complete beginners build mental models around HTML and CSS through visual, hands-on exercises.
 
