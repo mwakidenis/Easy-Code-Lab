@@ -67,4 +67,4 @@ src/
 
 ## Build 
 
-see 👉(build)[https://github.com/mwakidenis/Easy-Code-Lab/blob/main/README.md]
+see 👉[build](https://github.com/mwakidenis/Easy-Code-Lab/blob/main/README.md)
