@@ -83,7 +83,7 @@ see 👉[build](https://github.com/mwakidenis/Easy-Code-Lab/blob/main/AGENTS.md)
 
 <div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
 
-We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating the repo to greater heights.
+I extend my heartfelt gratitude for any invaluable contribution to this project! Your efforts play a pivotal role in elevating the repo to greater heights.
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
