@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or teaching, please cite it using these metadata."
+title: "Easy-Code-Lab"
+version: "1.0.0"
+date-released: "2026-07-16"
+repository-code: "https://github.com/mwakidenis/Easy-Code-Lab"
+license: "MIT"
+doi: "10.5281/zenodo.XXXXXX"
+authors:
+  - family-names: "Mwaki"
+    given-names: "Denis"
+    email: "mwakidenis@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - "education"
+  - "HTML"
+  - "CSS"
+  - "interactive learning"
+  - "box model"
+  - "tag builder"
+  - "beginner-friendly"
+abstract: >
+  Easy-Code-Lab is an interactive, browser-based learning tool designed to help
+  complete beginners build mental models around HTML and CSS. It features hands-on
+  exercises, a Tag Builder for learning syntax, and a Box Model Explorer with
+  3D visualisation using Three.js. The project aims to make coding accessible to
+  students with no prior experience.
+preferred-citation:
+  type: "software"
+  title: "Easy-Code-Lab"
+  authors:
+    - family-names: "Mwaki"
+      given-names: "Denis"
+  year: "2026"
+  version: "1.0.0"
+  url: "https://github.com/mwakidenis/Easy-Code-Lab"
+  license: "MIT"
+  description: >
+    An interactive HTML/CSS learning tool with tag-building and box-model
+    visualisation for absolute beginners.
